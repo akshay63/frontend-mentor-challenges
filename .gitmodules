@@ -19,3 +19,6 @@
 [submodule "Clipboard-landing-page"]
 	path = Clipboard-landing-page
 	url = https://github.com/akshay63/Clipboard-landing-page.git
+[submodule "Grid-component-bootstrap"]
+	path = Grid-component-bootstrap
+	url = https://github.com/akshay63/Grid-component-bootstrap.git
