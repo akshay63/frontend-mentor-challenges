@@ -7,3 +7,6 @@
 [submodule "four-card-section-challenge"]
 	path = four-card-section-challenge
 	url = https://github.com/akshay63/four-card-section-challenge.git
+[submodule "Price-component"]
+	path = Price-component
+	url = https://github.com/akshay63/Price-component.git
