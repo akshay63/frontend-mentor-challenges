@@ -1,3 +1,6 @@
 [submodule "profile-card"]
 	path = profile-card
 	url = https://github.com/akshay63/profile-card.git
+[submodule "social-proof-section-with-flexbox"]
+	path = social-proof-section-with-flexbox
+	url = https://github.com/akshay63/social-proof-section-with-flexbox.git
