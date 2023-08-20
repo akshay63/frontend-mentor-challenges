@@ -22,3 +22,6 @@
 [submodule "Grid-component-bootstrap"]
 	path = Grid-component-bootstrap
 	url = https://github.com/akshay63/Grid-component-bootstrap.git
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/akshay63/interactive-rating-component.git
