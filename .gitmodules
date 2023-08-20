@@ -4,3 +4,6 @@
 [submodule "social-proof-section-with-flexbox"]
 	path = social-proof-section-with-flexbox
 	url = https://github.com/akshay63/social-proof-section-with-flexbox.git
+[submodule "four-card-section-challenge"]
+	path = four-card-section-challenge
+	url = https://github.com/akshay63/four-card-section-challenge.git
