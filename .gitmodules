@@ -34,3 +34,6 @@
 [submodule "article-preview-component"]
 	path = article-preview-component
 	url = https://github.com/akshay63/article-preview-component.git
+[submodule "base-apparel-coming-soon"]
+	path = base-apparel-coming-soon
+	url = https://github.com/akshay63/base-apparel-coming-soon.git
