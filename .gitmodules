@@ -10,3 +10,6 @@
 [submodule "Price-component"]
 	path = Price-component
 	url = https://github.com/akshay63/Price-component.git
+[submodule "Huddle-landing-page"]
+	path = Huddle-landing-page
+	url = https://github.com/akshay63/Huddle-landing-page.git
