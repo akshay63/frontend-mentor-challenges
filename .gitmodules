@@ -37,3 +37,6 @@
 [submodule "base-apparel-coming-soon"]
 	path = base-apparel-coming-soon
 	url = https://github.com/akshay63/base-apparel-coming-soon.git
+[submodule "stats-preview-card-component"]
+	path = stats-preview-card-component
+	url = https://github.com/akshay63/stats-preview-card-component.git
