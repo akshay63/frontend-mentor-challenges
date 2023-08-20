@@ -40,3 +40,6 @@
 [submodule "stats-preview-card-component"]
 	path = stats-preview-card-component
 	url = https://github.com/akshay63/stats-preview-card-component.git
+[submodule "notifications-page"]
+	path = notifications-page
+	url = https://github.com/akshay63/notifications-page.git
